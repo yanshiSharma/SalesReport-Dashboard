@@ -183,7 +183,7 @@ Identical layout to Page 3 — 12 line charts for all months of 2018. Revenue pe
 
 ### Page 5 — 2019 Monthly Sales (Daily Granularity by Channel)
 
-![Page 5 — 2019 Monthly Sales](,/Dashboard-Screenshots/Page%205.png)
+![Page 5 — 2019 Monthly Sales](./Dashboard-Screenshots/Page%205.png)
 
 2019's daily-level charts show a visible shift: the three channel lines appear **closer together and more compressed** compared to 2017 and 2018, suggesting revenue convergence across channels. The 50K daily peak still occurs but less frequently, and the Export channel shows increased activity relative to prior years.
 
