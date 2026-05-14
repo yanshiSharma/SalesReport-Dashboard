@@ -125,7 +125,7 @@ The dashboard is powered by a **star schema** with one central fact table connec
 
 ### Page 1 — Executive Summary & KPI Overview
 
-![Page 1 — KPI Overview & Product Analysis](Dashboard-Screenshots/Page 1.png)
+![Page 1 — KPI Overview & Product Analysis](./Dashboard-Screenshots/Page%201.png)
 
 The landing page combines headline KPI cards, interactive slicers, and two core visualisations giving an instant read on cost-demand dynamics and geographic pricing.
 
