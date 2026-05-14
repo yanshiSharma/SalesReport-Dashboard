@@ -125,7 +125,7 @@ The dashboard is powered by a **star schema** with one central fact table connec
 
 ### Page 1 — Executive Summary & KPI Overview
 
-![Page 1 — KPI Overview & Product Analysis](https://github.com/yanshiSharma/SalesReport-Dashboard/raw/main/Screenshot_2026-05-14_at_11_37_10_AM.png)
+![Page 1 — KPI Overview & Product Analysis](https://github.com/yanshiSharma/SalesReport-Dashboard/Dashboard-Screenshots/Page 1.png)
 
 The landing page combines headline KPI cards, interactive slicers, and two core visualisations giving an instant read on cost-demand dynamics and geographic pricing.
 
@@ -141,7 +141,7 @@ A richly coloured tree map covering all 100 regions, with rectangle size proport
 
 ### Page 2 — Yearly Sales Overview (2017–2019)
 
-![Page 2 — Yearly Sales 2017-2019](https://github.com/yanshiSharma/SalesReport-Dashboard/raw/main/Screenshot_2026-05-14_at_11_38_03_AM.png)
+![Page 2 — Yearly Sales 2017-2019](https://github.com/yanshiSharma/SalesReport-Dashboard/Dashboard-Screenshots/Page 2.png)
 
 Three stacked area charts, one per year, each plotting **Max Revenue Month-wise** segmented by channel (Distributor = light blue, Export = dark blue, Wholesale = orange). Revenue consistently reaches ~0.2M monthly across all three years, with Wholesale being the dominant channel layer throughout. This view is ideal for year-over-year pattern comparison and spotting channel mix shifts across the full 3-year window.
 
@@ -156,7 +156,7 @@ Three stacked area charts, one per year, each plotting **Max Revenue Month-wise*
 
 ### Page 3 — 2017 Monthly Sales (Daily Granularity by Channel)
 
-![Page 3 — 2017 Monthly Sales](https://github.com/yanshiSharma/SalesReport-Dashboard/raw/main/Screenshot_2026-05-14_at_11_38_19_AM.png)
+![Page 3 — 2017 Monthly Sales](https://github.com/yanshiSharma/SalesReport-Dashboard/Dashboard-Screenshots/Page 3.png)
 
 A 4×3 grid of 12 line charts — one per month — each showing **Max Revenue by Day** broken down by Distributor (light blue), Export (dark blue), and Wholesale (orange). Revenue peaks frequently reach **~50K** within individual months. The multi-chart layout enables month-by-month comparison of intra-month volatility and channel-specific daily spikes in a single glance.
 
@@ -170,7 +170,7 @@ A 4×3 grid of 12 line charts — one per month — each showing **Max Revenue b
 
 ### Page 4 — 2018 Monthly Sales (Daily Granularity by Channel)
 
-![Page 4 — 2018 Monthly Sales](https://github.com/yanshiSharma/SalesReport-Dashboard/raw/main/Screenshot_2026-05-14_at_11_39_26_AM.png)
+![Page 4 — 2018 Monthly Sales](https://github.com/yanshiSharma/SalesReport-Dashboard/Dashboard-Screenshots/Page 4.png)
 
 Identical layout to Page 3 — 12 line charts for all months of 2018. Revenue peaks again reach ~50K at the daily level with similar channel volatility to 2017. This page allows direct visual comparison against the 2017 page to identify whether daily revenue patterns are becoming more or less volatile year-over-year.
 
@@ -183,7 +183,7 @@ Identical layout to Page 3 — 12 line charts for all months of 2018. Revenue pe
 
 ### Page 5 — 2019 Monthly Sales (Daily Granularity by Channel)
 
-![Page 5 — 2019 Monthly Sales](https://github.com/yanshiSharma/SalesReport-Dashboard/raw/main/Screenshot_2026-05-14_at_11_39_54_AM.png)
+![Page 5 — 2019 Monthly Sales](https://github.com/yanshiSharma/SalesReport-Dashboard/Dashboard-Screenshots/Page 5.png)
 
 2019's daily-level charts show a visible shift: the three channel lines appear **closer together and more compressed** compared to 2017 and 2018, suggesting revenue convergence across channels. The 50K daily peak still occurs but less frequently, and the Export channel shows increased activity relative to prior years.
 
